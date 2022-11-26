@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c68a6b8c-b4cc-48cc-a49a-913173341b8d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/GameHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShipSink.java" afterDir="false" />
+    <list default="true" id="c68a6b8c-b4cc-48cc-a49a-913173341b8d" name="Changes" comment="bare game made with the help of &quot;Head first java!&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +45,17 @@
       <option name="presentableId" value="Default" />
       <updated>1664688438183</updated>
       <workItem from="1664688471573" duration="137000" />
-      <workItem from="1664715940157" duration="2053000" />
+      <workItem from="1664715940157" duration="3420000" />
+      <workItem from="1665124976737" duration="39000" />
     </task>
+    <task id="LOCAL-00001" summary="bare game made with the help of &quot;Head first java!&quot;">
+      <created>1664719222554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664719222554</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,5 +71,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bare game made with the help of &quot;Head first java!&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="bare game made with the help of &quot;Head first java!&quot;" />
   </component>
 </project>
